@@ -1,1 +1,1 @@
-Algoritmo de ordenação de veotr utilizando o método bubble sort no python.
+Algoritmo de ordenação de vetor utilizando o método bubble sort no python.
